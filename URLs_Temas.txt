@@ -1,0 +1,150 @@
+                      Los pilares de la programacion orientada a objetos POO, para completar conociemientos de JAVA
+
+https://www.youtube.com/watch?v=WdayImP8vnY
+
+https://www.youtube.com/watch?v=wmECY8XCe4E
+
+
+
+
+                                   Code Smells
+
+http://slideplayer.es/slide/5421156/#.VqZlNUWNZGA.facebook
+
+http://www.slideshare.net/fernandoescolar/dotnet-conference-code-smells?from_action=save
+
+
+
+
+
+                                Patron de diseños y ejemplos de usos
+
+https://www.youtube.com/watch?v=77Kw5P5Y73U&list=PLC238B0613515968F
+
+
+https://www.youtube.com/watch?v=J7fpJEJQyfY
+
+
+https://www.youtube.com/watch?v=KD-JNLAQ2qY
+
+
+                                 Ingenieria de Requerimientos     
+
+
+
+http://sedici.unlp.edu.ar/bitstream/handle/10915/4057/2_-_Ingenier%C3%ADa_de_requerimientos.pdf?sequence=4
+
+
+https://www.youtube.com/watch?v=a8i_Yb6ikQM&index=2&list=PLCed6xOnJowbEjM0e3ym9cleDvSO8hUHy
+
+
+                                 Curso básico de SQL
+
+https://www.youtube.com/watch?v=iOiyJgnN71c
+
+
+
+
+                                  Calidad del software y metricas
+
+https://www.youtube.com/watch?v=Hf-47kSvkHc
+
+https://www.youtube.com/watch?v=rHX9FRY5i9c
+
+https://www.youtube.com/watch?v=F-cQpgp5Ics
+
+https://www.youtube.com/watch?v=kh7tIcXOB1E
+
+
+                          Calidad del software y conceptos de pruebas del software muy bueno
+
+https://www.youtube.com/watch?v=CSgdhH5gp_U
+
+https://www.youtube.com/watch?v=8v17O8RlKdA
+
+
+                                  Metodologías de Desarrollo
+
+Principios Agile
+
+http://agilemanifesto.org/iso/es/principles.html
+
+
+Introducción a XP
+
+http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
+
+
+Introducción a Scrum
+
+https://www.youtube.com/watch?v=y3zXvWH4f98
+
+
+Waterfall
+
+http://metodologiaencascada.blogspot.com/
+
+
+
+
+                                  Conceptos de Automatización
+
+
+Herramientas de Grabado:
+
+BadBoy : FALTA
+
+Herramienta de Generación de scripts
+
+Jmeter 
+https://www.youtube.com/watch?v=AUYNR48ODcs
+
+
+Herramienta de scripting y programación
+
+Selenium
+
+https://www.youtube.com/watch?v=BL4-_tVx2rE
+
+https://www.youtube.com/watch?v=-g6TxKG1IRk&list=PLi3B1HriJRbk3MBhn19ByZZXaXHQ81FVe&index=2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     
+
+
+
+
+
